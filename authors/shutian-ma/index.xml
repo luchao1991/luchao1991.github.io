@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shutian Ma | Lu, Chao</title>
+    <link>https://luchao1991.github.io/authors/shutian-ma/</link>
+      <atom:link href="https://luchao1991.github.io/authors/shutian-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shutian Ma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Shutian Ma</title>
+      <link>https://luchao1991.github.io/authors/shutian-ma/</link>
+    </image>
+    
+    <item>
+      <title>How Does Citing Behavior for a Scientific Article Change over Time?: A Preliminary Study</title>
+      <link>https://luchao1991.github.io/publication/lu-how-does-citing-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/publication/lu-how-does-citing-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

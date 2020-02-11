@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tagging system | Lu, Chao</title>
+    <link>https://luchao1991.github.io/tags/tagging-system/</link>
+      <atom:link href="https://luchao1991.github.io/tags/tagging-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>tagging system</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>tagging system</title>
+      <link>https://luchao1991.github.io/tags/tagging-system/</link>
+    </image>
+    
+    <item>
+      <title>用于引文内容分析的标准化数据集构建</title>
+      <link>https://luchao1991.github.io/publication/zhangmengyingluchaozhengrujiazhangchengzhi-yong-yu-yin-wen-nei-rong-fen-xi-de-biao-zhun-hua-shu-ju-ji-gou-jian-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/publication/zhangmengyingluchaozhengrujiazhangchengzhi-yong-yu-yin-wen-nei-rong-fen-xi-de-biao-zhun-hua-shu-ju-ji-gou-jian-2016-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

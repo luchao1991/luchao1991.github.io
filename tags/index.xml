@@ -5,12 +5,212 @@
     <link>https://luchao1991.github.io/tags/</link>
       <atom:link href="https://luchao1991.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 03:53:17 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://luchao1991.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>author contribution statement</title>
+      <link>https://luchao1991.github.io/tags/author-contribution-statement/</link>
+      <pubDate>Tue, 11 Feb 2020 03:53:17 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/author-contribution-statement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>division of labor</title>
+      <link>https://luchao1991.github.io/tags/division-of-labor/</link>
+      <pubDate>Tue, 11 Feb 2020 03:53:17 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/division-of-labor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network science</title>
+      <link>https://luchao1991.github.io/tags/network-science/</link>
+      <pubDate>Tue, 11 Feb 2020 03:53:17 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/network-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scientific collaboration</title>
+      <link>https://luchao1991.github.io/tags/scientific-collaboration/</link>
+      <pubDate>Tue, 11 Feb 2020 03:53:17 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/scientific-collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scientific impact</title>
+      <link>https://luchao1991.github.io/tags/scientific-impact/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/scientific-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scientific writing</title>
+      <link>https://luchao1991.github.io/tags/scientific-writing/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/scientific-writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic complexity</title>
+      <link>https://luchao1991.github.io/tags/syntactic-complexity/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/syntactic-complexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethnic group</title>
+      <link>https://luchao1991.github.io/tags/ethnic-group/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/ethnic-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linguistic complexity</title>
+      <link>https://luchao1991.github.io/tags/linguistic-complexity/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/linguistic-complexity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>role charactor</title>
+      <link>https://luchao1991.github.io/tags/role-charactor/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/role-charactor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>case study</title>
+      <link>https://luchao1991.github.io/tags/case-study/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/case-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>citation content</title>
+      <link>https://luchao1991.github.io/tags/citation-content/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/citation-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>citation content analysis</title>
+      <link>https://luchao1991.github.io/tags/citation-content-analysis/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/citation-content-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>citing behavior</title>
+      <link>https://luchao1991.github.io/tags/citing-behavior/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/citing-behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>h-index</title>
+      <link>https://luchao1991.github.io/tags/h-index/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/h-index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interdisciplinarity</title>
+      <link>https://luchao1991.github.io/tags/interdisciplinarity/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/interdisciplinarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monography</title>
+      <link>https://luchao1991.github.io/tags/monography/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/monography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>obsolescence</title>
+      <link>https://luchao1991.github.io/tags/obsolescence/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/obsolescence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>https://luchao1991.github.io/tags/science/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book tagging</title>
+      <link>https://luchao1991.github.io/tags/book-tagging/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/book-tagging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>common space</title>
+      <link>https://luchao1991.github.io/tags/common-space/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/common-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social tagging</title>
+      <link>https://luchao1991.github.io/tags/social-tagging/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/social-tagging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>system development</title>
+      <link>https://luchao1991.github.io/tags/system-development/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/system-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tagging system</title>
+      <link>https://luchao1991.github.io/tags/tagging-system/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/tagging-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web2.0</title>
+      <link>https://luchao1991.github.io/tags/web2.0/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/web2.0/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

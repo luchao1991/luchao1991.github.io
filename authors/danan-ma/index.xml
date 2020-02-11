@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danan Ma | Lu, Chao</title>
+    <link>https://luchao1991.github.io/authors/danan-ma/</link>
+      <atom:link href="https://luchao1991.github.io/authors/danan-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Danan Ma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 03:53:17 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Danan Ma</title>
+      <link>https://luchao1991.github.io/authors/danan-ma/</link>
+    </image>
+    
+    <item>
+      <title>Co-Contributorship Network and Division of Labor in Individual Scientific Collaborations</title>
+      <link>https://luchao1991.github.io/publication/lu-cocontributorship-network-division-accepted/</link>
+      <pubDate>Tue, 11 Feb 2020 03:53:17 +0000</pubDate>
+      <guid>https://luchao1991.github.io/publication/lu-cocontributorship-network-division-accepted/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
