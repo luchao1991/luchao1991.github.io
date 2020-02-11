@@ -5,7 +5,7 @@
     <link>https://luchao1991.github.io/publication_types/2/</link>
       <atom:link href="https://luchao1991.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 03:53:17 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 16:40:53 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Co-Contributorship Network and Division of Labor in Individual Scientific Collaborations</title>
       <link>https://luchao1991.github.io/publication/lu-cocontributorship-network-division-accepted/</link>
-      <pubDate>Tue, 11 Feb 2020 03:53:17 +0000</pubDate>
+      <pubDate>Tue, 11 Feb 2020 16:40:53 +0800</pubDate>
       <guid>https://luchao1991.github.io/publication/lu-cocontributorship-network-division-accepted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>国外新兴研究话题发现研究综述</title>
+      <link>https://luchao1991.github.io/publication/luchao-guowaixinxingyanjiuhuati-2019/</link>
+      <pubDate>Tue, 11 Feb 2020 16:29:53 +0800</pubDate>
+      <guid>https://luchao1991.github.io/publication/luchao-guowaixinxingyanjiuhuati-2019/</guid>
       <description></description>
     </item>
     
@@ -54,9 +62,9 @@
     
     <item>
       <title>学术专著引用行为研究——基于引文内容特征分析的视角</title>
-      <link>https://luchao1991.github.io/publication/zhangchengzhi-xue-zhu-zhuan-zhu-yin-yong-xing-wei-yan-jiu-ji-yu-yin-wen-nei-rong-te-zheng-fen-xi-de-shi-jiao-2017/</link>
+      <link>https://luchao1991.github.io/publication/wangyuzhuo-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/publication/zhangchengzhi-xue-zhu-zhuan-zhu-yin-yong-xing-wei-yan-jiu-ji-yu-yin-wen-nei-rong-te-zheng-fen-xi-de-shi-jiao-2017/</guid>
+      <guid>https://luchao1991.github.io/publication/wangyuzhuo-2017/</guid>
       <description></description>
     </item>
     
@@ -70,9 +78,9 @@
     
     <item>
       <title>术语引用视角下的学科交叉测度——以PLOS ONE上六个学科为例</title>
-      <link>https://luchao1991.github.io/publication/xushurui-zhu-yu-yin-yong-shi-jiao-xia-de-xue-ke-jiao-cha-ce-du-yi-plosone-shang-liu-ge-xue-ke-wei-li-2017/</link>
+      <link>https://luchao1991.github.io/publication/xushurui-zhu-yu-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/publication/xushurui-zhu-yu-yin-yong-shi-jiao-xia-de-xue-ke-jiao-cha-ce-du-yi-plosone-shang-liu-ge-xue-ke-wei-li-2017/</guid>
+      <guid>https://luchao1991.github.io/publication/xushurui-zhu-yu-2017/</guid>
       <description></description>
     </item>
     
@@ -86,25 +94,25 @@
     
     <item>
       <title>利用引文内容监测多学科交叉现象的方法与实证</title>
-      <link>https://luchao1991.github.io/publication/zhangchengzhi-li-yong-yin-wen-nei-rong-jian-ce-duo-xue-ke-jiao-cha-xian-xiang-de-fang-fa-yu-shi-zheng-2016/</link>
+      <link>https://luchao1991.github.io/publication/zhangchengzhi-li-yong-yin-wen-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/publication/zhangchengzhi-li-yong-yin-wen-nei-rong-jian-ce-duo-xue-ke-jiao-cha-xian-xiang-de-fang-fa-yu-shi-zheng-2016/</guid>
+      <guid>https://luchao1991.github.io/publication/zhangchengzhi-li-yong-yin-wen-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>用于引文内容分析的标准化数据集构建</title>
-      <link>https://luchao1991.github.io/publication/zhangmengyingluchaozhengrujiazhangchengzhi-yong-yu-yin-wen-nei-rong-fen-xi-de-biao-zhun-hua-shu-ju-ji-gou-jian-2016-a/</link>
+      <link>https://luchao1991.github.io/publication/zhangmengying-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/publication/zhangmengyingluchaozhengrujiazhangchengzhi-yong-yu-yin-wen-nei-rong-fen-xi-de-biao-zhun-hua-shu-ju-ji-gou-jian-2016-a/</guid>
+      <guid>https://luchao1991.github.io/publication/zhangmengying-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>基于引文内容的单篇学术论文参考文献网络结构研究</title>
-      <link>https://luchao1991.github.io/publication/luchao-ji-yu-yin-wen-nei-rong-de-dan-pian-xue-zhu-lun-wen-can-kao-wen-xian-wang-luo-jie-gou-yan-jiu-2014/</link>
+      <link>https://luchao1991.github.io/publication/luchao-dan-pian-xue-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/publication/luchao-ji-yu-yin-wen-nei-rong-de-dan-pian-xue-zhu-lun-wen-can-kao-wen-xian-wang-luo-jie-gou-yan-jiu-2014/</guid>
+      <guid>https://luchao1991.github.io/publication/luchao-dan-pian-xue-2014/</guid>
       <description></description>
     </item>
     

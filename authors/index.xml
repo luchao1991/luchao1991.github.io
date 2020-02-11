@@ -5,7 +5,7 @@
     <link>https://luchao1991.github.io/authors/</link>
       <atom:link href="https://luchao1991.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 03:53:17 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 16:40:53 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Chao Lu</title>
       <link>https://luchao1991.github.io/authors/chao-lu/</link>
-      <pubDate>Tue, 11 Feb 2020 03:53:17 +0000</pubDate>
+      <pubDate>Tue, 11 Feb 2020 16:40:53 +0800</pubDate>
       <guid>https://luchao1991.github.io/authors/chao-lu/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Chenwei Zhang</title>
       <link>https://luchao1991.github.io/authors/chenwei-zhang/</link>
-      <pubDate>Tue, 11 Feb 2020 03:53:17 +0000</pubDate>
+      <pubDate>Tue, 11 Feb 2020 16:40:53 +0800</pubDate>
       <guid>https://luchao1991.github.io/authors/chenwei-zhang/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Danan Ma</title>
       <link>https://luchao1991.github.io/authors/danan-ma/</link>
-      <pubDate>Tue, 11 Feb 2020 03:53:17 +0000</pubDate>
+      <pubDate>Tue, 11 Feb 2020 16:40:53 +0800</pubDate>
       <guid>https://luchao1991.github.io/authors/danan-ma/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Ying Ding</title>
       <link>https://luchao1991.github.io/authors/ying-ding/</link>
-      <pubDate>Tue, 11 Feb 2020 03:53:17 +0000</pubDate>
+      <pubDate>Tue, 11 Feb 2020 16:40:53 +0800</pubDate>
       <guid>https://luchao1991.github.io/authors/ying-ding/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Yingyi Zhang</title>
       <link>https://luchao1991.github.io/authors/yingyi-zhang/</link>
-      <pubDate>Tue, 11 Feb 2020 03:53:17 +0000</pubDate>
+      <pubDate>Tue, 11 Feb 2020 16:40:53 +0800</pubDate>
       <guid>https://luchao1991.github.io/authors/yingyi-zhang/</guid>
       <description></description>
     </item>
@@ -55,8 +55,32 @@
     <item>
       <title>Yong-Yeol Ahn</title>
       <link>https://luchao1991.github.io/authors/yong-yeol-ahn/</link>
-      <pubDate>Tue, 11 Feb 2020 03:53:17 +0000</pubDate>
+      <pubDate>Tue, 11 Feb 2020 16:40:53 +0800</pubDate>
       <guid>https://luchao1991.github.io/authors/yong-yeol-ahn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> 卢超</title>
+      <link>https://luchao1991.github.io/authors/%E5%8D%A2%E8%B6%85/</link>
+      <pubDate>Tue, 11 Feb 2020 16:29:53 +0800</pubDate>
+      <guid>https://luchao1991.github.io/authors/%E5%8D%A2%E8%B6%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> 章成志</title>
+      <link>https://luchao1991.github.io/authors/%E7%AB%A0%E6%88%90%E5%BF%97/</link>
+      <pubDate>Tue, 11 Feb 2020 16:29:53 +0800</pubDate>
+      <guid>https://luchao1991.github.io/authors/%E7%AB%A0%E6%88%90%E5%BF%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>侯海燕</title>
+      <link>https://luchao1991.github.io/authors/%E4%BE%AF%E6%B5%B7%E7%87%95/</link>
+      <pubDate>Tue, 11 Feb 2020 16:29:53 +0800</pubDate>
+      <guid>https://luchao1991.github.io/authors/%E4%BE%AF%E6%B5%B7%E7%87%95/</guid>
       <description></description>
     </item>
     
@@ -149,14 +173,6 @@
     </item>
     
     <item>
-      <title> 卢超</title>
-      <link>https://luchao1991.github.io/authors/%E5%8D%A2%E8%B6%85/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/authors/%E5%8D%A2%E8%B6%85/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title> 徐庶睿</title>
       <link>https://luchao1991.github.io/authors/%E5%BE%90%E5%BA%B6%E7%9D%BF/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -169,14 +185,6 @@
       <link>https://luchao1991.github.io/authors/%E7%8E%8B%E7%8E%89%E7%90%A2/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://luchao1991.github.io/authors/%E7%8E%8B%E7%8E%89%E7%90%A2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> 章成志</title>
-      <link>https://luchao1991.github.io/authors/%E7%AB%A0%E6%88%90%E5%BF%97/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/authors/%E7%AB%A0%E6%88%90%E5%BF%97/</guid>
       <description></description>
     </item>
     
@@ -218,6 +226,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://luchao1991.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Lu, Chao is a PhD of  Management Science and Engineering at the Nanjing University of Science and Technology. His research interests include text mining, bibliometrics, science of science, scientific collaboration, interdisciplinarity, and other stuffs.&lt;/p&gt;
+&lt;p&gt;He loves playing ping pang, swimming, and cooking, though he isn&amp;rsquo;t really good at any of them. He is also a tortoise-like guy, his collaborators always push him to finish his work. While he is a nice team-player, good at sharing ideas and making them happen. Contact him if you are interested in what he is doing right now! See 
+&lt;a href=&#34;https://luchao1991.github.io/publication/&#34;&gt;more&lt;/a&gt;
+.&lt;/p&gt;
 </description>
     </item>
     
