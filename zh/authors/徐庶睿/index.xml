@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> 徐庶睿 | 卢超</title>
+    <link>https://luchao1991.github.io/zh/authors/%E5%BE%90%E5%BA%B6%E7%9D%BF/</link>
+      <atom:link href="https://luchao1991.github.io/zh/authors/%E5%BE%90%E5%BA%B6%E7%9D%BF/index.xml" rel="self" type="application/rss+xml" />
+    <description> 徐庶睿</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title> 徐庶睿</title>
+      <link>https://luchao1991.github.io/zh/authors/%E5%BE%90%E5%BA%B6%E7%9D%BF/</link>
+    </image>
+    
+    <item>
+      <title>利用引文内容进行主题级学科交叉类型分析</title>
+      <link>https://luchao1991.github.io/zh/publication/xushurui-li-yong-yin-wen-nei-rong-jin-xing-zhu-ti-ji-xue-ke-jiao-cha-lei-xing-fen-xi-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/xushurui-li-yong-yin-wen-nei-rong-jin-xing-zhu-ti-ji-xue-ke-jiao-cha-lei-xing-fen-xi-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学科交叉度的点面关系研究</title>
+      <link>https://luchao1991.github.io/zh/publication/xushurui-xue-ke-jiao-cha-du-de-dian-mian-guan-xi-yan-jiu-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/xushurui-xue-ke-jiao-cha-du-de-dian-mian-guan-xi-yan-jiu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>术语引用视角下的学科交叉测度——以PLOS ONE上六个学科为例</title>
+      <link>https://luchao1991.github.io/zh/publication/xushurui-zhu-yu-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/xushurui-zhu-yu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>利用引文内容监测多学科交叉现象的方法与实证</title>
+      <link>https://luchao1991.github.io/zh/publication/zhangchengzhi-li-yong-yin-wen-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/zhangchengzhi-li-yong-yin-wen-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

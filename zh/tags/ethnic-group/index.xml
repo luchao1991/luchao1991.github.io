@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ethnic group | 卢超</title>
+    <link>https://luchao1991.github.io/zh/tags/ethnic-group/</link>
+      <atom:link href="https://luchao1991.github.io/zh/tags/ethnic-group/index.xml" rel="self" type="application/rss+xml" />
+    <description>ethnic group</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>ethnic group</title>
+      <link>https://luchao1991.github.io/zh/tags/ethnic-group/</link>
+    </image>
+    
+    <item>
+      <title>Examining Scientific Writing Styles from the Perspective of Linguistic Complexity</title>
+      <link>https://luchao1991.github.io/zh/publication/lu-examining-scientific-writing-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/lu-examining-scientific-writing-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Academic Writing Style from the Perspective of Linguistic Closeness of the Speaker&#39;s Native Language to English</title>
+      <link>https://luchao1991.github.io/zh/publication/lu-understanding-academic-writing-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/lu-understanding-academic-writing-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

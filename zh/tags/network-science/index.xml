@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>network science | 卢超</title>
+    <link>https://luchao1991.github.io/zh/tags/network-science/</link>
+      <atom:link href="https://luchao1991.github.io/zh/tags/network-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>network science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Tue, 11 Feb 2020 16:40:53 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>network science</title>
+      <link>https://luchao1991.github.io/zh/tags/network-science/</link>
+    </image>
+    
+    <item>
+      <title>Co-Contributorship Network and Division of Labor in Individual Scientific Collaborations</title>
+      <link>https://luchao1991.github.io/zh/publication/lu-cocontributorship-network-division-accepted/</link>
+      <pubDate>Tue, 11 Feb 2020 16:40:53 +0800</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/lu-cocontributorship-network-division-accepted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Roles of Collaborators from Their Byline Orders and Affiliations</title>
+      <link>https://luchao1991.github.io/zh/publication/lu-understanding-roles-collaborators-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/lu-understanding-roles-collaborators-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Types of Scientific Collaborators: A Perspective of Author Contribution Network</title>
+      <link>https://luchao1991.github.io/zh/publication/lu-types-scientific-collaborators-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/lu-types-scientific-collaborators-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于引文内容的单篇学术论文参考文献网络结构研究</title>
+      <link>https://luchao1991.github.io/zh/publication/luchao-dan-pian-xue-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/luchao-dan-pian-xue-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

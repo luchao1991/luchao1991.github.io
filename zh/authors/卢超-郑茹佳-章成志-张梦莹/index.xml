@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>卢超, 郑茹佳, 章成志 张梦莹 | 卢超</title>
+    <link>https://luchao1991.github.io/zh/authors/%E5%8D%A2%E8%B6%85-%E9%83%91%E8%8C%B9%E4%BD%B3-%E7%AB%A0%E6%88%90%E5%BF%97-%E5%BC%A0%E6%A2%A6%E8%8E%B9/</link>
+      <atom:link href="https://luchao1991.github.io/zh/authors/%E5%8D%A2%E8%B6%85-%E9%83%91%E8%8C%B9%E4%BD%B3-%E7%AB%A0%E6%88%90%E5%BF%97-%E5%BC%A0%E6%A2%A6%E8%8E%B9/index.xml" rel="self" type="application/rss+xml" />
+    <description>卢超, 郑茹佳, 章成志 张梦莹</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>卢超, 郑茹佳, 章成志 张梦莹</title>
+      <link>https://luchao1991.github.io/zh/authors/%E5%8D%A2%E8%B6%85-%E9%83%91%E8%8C%B9%E4%BD%B3-%E7%AB%A0%E6%88%90%E5%BF%97-%E5%BC%A0%E6%A2%A6%E8%8E%B9/</link>
+    </image>
+    
+    <item>
+      <title>用于引文内容分析的标准化数据集构建</title>
+      <link>https://luchao1991.github.io/zh/publication/zhangmengying-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/zhangmengying-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
