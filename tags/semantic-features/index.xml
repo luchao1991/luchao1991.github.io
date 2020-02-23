@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>semantic features | Lu, Chao</title>
+    <link>https://luchao1991.github.io/tags/semantic-features/</link>
+      <atom:link href="https://luchao1991.github.io/tags/semantic-features/index.xml" rel="self" type="application/rss+xml" />
+    <description>semantic features</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Feb 2020 14:48:29 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>semantic features</title>
+      <link>https://luchao1991.github.io/tags/semantic-features/</link>
+    </image>
+    
+    <item>
+      <title>语义特征分析的深化——学术文献的全文计量分析研究综述</title>
+      <link>https://luchao1991.github.io/publication/luchao-zhongtu2020-accept/</link>
+      <pubDate>Sun, 23 Feb 2020 14:48:29 +0800</pubDate>
+      <guid>https://luchao1991.github.io/publication/luchao-zhongtu2020-accept/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://luchao1991.github.io/zh/authors/%E5%8D%A2%E8%B6%85/</loc>
+    <lastmod>2020-02-23T14:48:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/authors/%E5%8D%A2%E8%B6%85/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/authors/%E5%8D%A2%E8%B6%85/"
+                />
+  </url>
+  
+  <url>
     <loc>https://luchao1991.github.io/zh/authors/%E7%8E%8B%E7%8E%89%E7%90%A2/</loc>
     <lastmod>2020-02-23T14:48:29+08:00</lastmod>
     <xhtml:link
@@ -14,6 +29,21 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://luchao1991.github.io/zh/authors/%E7%8E%8B%E7%8E%89%E7%90%A2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://luchao1991.github.io/zh/authors/%E7%AB%A0%E6%88%90%E5%BF%97/</loc>
+    <lastmod>2020-02-23T14:48:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/authors/%E7%AB%A0%E6%88%90%E5%BF%97/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/authors/%E7%AB%A0%E6%88%90%E5%BF%97/"
                 />
   </url>
   
@@ -138,21 +168,6 @@
   </url>
   
   <url>
-    <loc>https://luchao1991.github.io/zh/authors/%E5%8D%A2%E8%B6%85/</loc>
-    <lastmod>2020-02-23T14:48:29+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luchao1991.github.io/authors/%E5%8D%A2%E8%B6%85/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://luchao1991.github.io/zh/authors/%E5%8D%A2%E8%B6%85/"
-                />
-  </url>
-  
-  <url>
     <loc>https://luchao1991.github.io/zh/</loc>
     <lastmod>2020-02-23T14:48:29+08:00</lastmod>
     <xhtml:link
@@ -179,21 +194,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://luchao1991.github.io/zh/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://luchao1991.github.io/zh/authors/%E7%AB%A0%E6%88%90%E5%BF%97/</loc>
-    <lastmod>2020-02-23T14:48:29+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luchao1991.github.io/authors/%E7%AB%A0%E6%88%90%E5%BF%97/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://luchao1991.github.io/zh/authors/%E7%AB%A0%E6%88%90%E5%BF%97/"
                 />
   </url>
   
