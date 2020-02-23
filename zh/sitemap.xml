@@ -168,6 +168,21 @@
   </url>
   
   <url>
+    <loc>https://luchao1991.github.io/zh/authors/ying-ding/</loc>
+    <lastmod>2020-02-23T14:48:29+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/authors/ying-ding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/authors/ying-ding/"
+                />
+  </url>
+  
+  <url>
     <loc>https://luchao1991.github.io/zh/</loc>
     <lastmod>2020-02-23T14:48:29+08:00</lastmod>
     <xhtml:link
@@ -319,21 +334,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://luchao1991.github.io/zh/tags/scientific-collaboration/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://luchao1991.github.io/zh/authors/ying-ding/</loc>
-    <lastmod>2020-02-11T16:40:53+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luchao1991.github.io/authors/ying-ding/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://luchao1991.github.io/zh/authors/ying-ding/"
                 />
   </url>
   
