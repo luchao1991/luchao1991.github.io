@@ -78,6 +78,36 @@
   </url>
   
   <url>
+    <loc>https://luchao1991.github.io/tags/citation-content-analysis/</loc>
+    <lastmod>2020-02-23T04:01:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/tags/citation-content-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/tags/citation-content-analysis/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://luchao1991.github.io/tags/full-text-analysis/</loc>
+    <lastmod>2020-02-23T04:01:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/tags/full-text-analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/tags/full-text-analysis/"
+                />
+  </url>
+  
+  <url>
     <loc>https://luchao1991.github.io/</loc>
     <lastmod>2020-02-23T04:01:12+00:00</lastmod>
     <xhtml:link
@@ -119,6 +149,51 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://luchao1991.github.io/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://luchao1991.github.io/tags/semantic-features/</loc>
+    <lastmod>2020-02-23T04:01:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/tags/semantic-features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/tags/semantic-features/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://luchao1991.github.io/tags/</loc>
+    <lastmod>2020-02-23T04:01:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://luchao1991.github.io/tags/text-mining/</loc>
+    <lastmod>2020-02-23T04:01:12+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/tags/text-mining/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/tags/text-mining/"
                 />
   </url>
   
@@ -254,21 +329,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://luchao1991.github.io/tags/scientific-collaboration/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://luchao1991.github.io/tags/</loc>
-    <lastmod>2020-02-11T16:40:53+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://luchao1991.github.io/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luchao1991.github.io/tags/"
                 />
   </url>
   
@@ -779,21 +839,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://luchao1991.github.io/tags/citation-content/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://luchao1991.github.io/tags/citation-content-analysis/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://luchao1991.github.io/zh/tags/citation-content-analysis/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luchao1991.github.io/tags/citation-content-analysis/"
                 />
   </url>
   

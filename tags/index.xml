@@ -5,12 +5,44 @@
     <link>https://luchao1991.github.io/tags/</link>
       <atom:link href="https://luchao1991.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 16:40:53 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Feb 2020 04:01:12 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://luchao1991.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>citation content analysis</title>
+      <link>https://luchao1991.github.io/tags/citation-content-analysis/</link>
+      <pubDate>Sun, 23 Feb 2020 04:01:12 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/citation-content-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>full-text analysis</title>
+      <link>https://luchao1991.github.io/tags/full-text-analysis/</link>
+      <pubDate>Sun, 23 Feb 2020 04:01:12 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/full-text-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semantic features</title>
+      <link>https://luchao1991.github.io/tags/semantic-features/</link>
+      <pubDate>Sun, 23 Feb 2020 04:01:12 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/semantic-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text mining</title>
+      <link>https://luchao1991.github.io/tags/text-mining/</link>
+      <pubDate>Sun, 23 Feb 2020 04:01:12 +0000</pubDate>
+      <guid>https://luchao1991.github.io/tags/text-mining/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>author contribution statement</title>
@@ -129,14 +161,6 @@
       <link>https://luchao1991.github.io/tags/citation-content/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://luchao1991.github.io/tags/citation-content/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>citation content analysis</title>
-      <link>https://luchao1991.github.io/tags/citation-content-analysis/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/tags/citation-content-analysis/</guid>
       <description></description>
     </item>
     
