@@ -5,12 +5,36 @@
     <link>https://luchao1991.github.io/authors/</link>
       <atom:link href="https://luchao1991.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Feb 2020 16:40:53 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Feb 2020 04:01:12 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>https://luchao1991.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>成志 章</title>
+      <link>https://luchao1991.github.io/authors/%E6%88%90%E5%BF%97-%E7%AB%A0/</link>
+      <pubDate>Sun, 23 Feb 2020 04:01:12 +0000</pubDate>
+      <guid>https://luchao1991.github.io/authors/%E6%88%90%E5%BF%97-%E7%AB%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>玉琢 王</title>
+      <link>https://luchao1991.github.io/authors/%E7%8E%89%E7%90%A2-%E7%8E%8B/</link>
+      <pubDate>Sun, 23 Feb 2020 04:01:12 +0000</pubDate>
+      <guid>https://luchao1991.github.io/authors/%E7%8E%89%E7%90%A2-%E7%8E%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>超 卢</title>
+      <link>https://luchao1991.github.io/authors/%E8%B6%85-%E5%8D%A2/</link>
+      <pubDate>Sun, 23 Feb 2020 04:01:12 +0000</pubDate>
+      <guid>https://luchao1991.github.io/authors/%E8%B6%85-%E5%8D%A2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chao Lu</title>
