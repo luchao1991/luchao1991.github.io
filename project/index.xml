@@ -5,7 +5,7 @@
     <link>https://luchao1991.github.io/project/</link>
       <atom:link href="https://luchao1991.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Feb 2021 16:23:36 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
@@ -13,11 +13,20 @@
     </image>
     
     <item>
+      <title>The causal effect of the diversity of scientific teams to their scientific performance</title>
+      <link>https://luchao1991.github.io/project/team_diversity/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/project/team_diversity/</guid>
+      <description>&lt;p&gt;面对日益激烈的国际科技竞争形势和国内科技评价改革的机遇，本项目基于海量学术文献数据，探究科研合作中团队多样性的呈现特点，在时空上的分布演变规律，并进一步挖掘科研合作团队多样性与团队及个人的科研绩效的因果效应，以期为实现团队的组建和优化，提升科研资源的合理配置提供研究基础。本项目通过对相关研究基础和科研合作数据的系统梳理，总结形成科研团队多样性的多维度表征体系，构建面向团队多样性的科研团队群体画像；利用时空分析工具，探究科研团队多样性在科研合作实战中的分布演变规律及团队多样性的影响因素，进一步从团队和个人两个层面析出团队多样性对科研合作者的科研绩效影响的因果效应。此研究可深入认识科研合作现象，准确评估团队多样性对科研合作产生的实际影响，为科研团队组建与优化、科研资源的合理配置提供对策和建议。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Division of Labor in Science</title>
       <link>https://luchao1991.github.io/project/division_of_labor_in_science/</link>
       <pubDate>Mon, 08 Feb 2021 16:23:36 +0800</pubDate>
       <guid>https://luchao1991.github.io/project/division_of_labor_in_science/</guid>
-      <description>&lt;p&gt;2021.01-2023.12: National Natural Science Fund Project of China (No. 72004054)&lt;/p&gt;
+      <description>&lt;p&gt;Nowadays scientific collaboration become more than common in academia. Big sciences and complex scientific questions drives scholars to work together to achieve better scientific performance. However, scientific scollaboration is never easy. The mechanism behind those scientific teams and labs are uknown yet that moves sciences forward continueously. This projects utilizes scientific data and qualitative experiments (hopefully) to unveil this magic so as to help scientists and professionals establish better teams and make greater contributions. On top of that, with clear understanding of division of labor in those scientific labor senarioes, we hope to establish a better environment for evaluating scholars&#39; team performances and boosting their passion for collaboration.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,1103 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="卢超">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="基于文献题录数据和引文数据的传统文献计量研究存在着诸多的障碍和壁垒。随着自然语言处理技术的发展和学术文献全文数据特别是结构化全文数据的丰富，这些障碍和壁垒在不断被攻克。通过综述学术文献全文的计量分析的相关研究，本文发现：学术文献的计量研究正在经历巨大转变——从学术文献的外部特征到开始关注内容特征、从关注学术文献的句法特征到语义特征乃至语用特征。以引文内容分析为代表的学术文献全文计量分析研究发展突出，其他全文信息的计量分析工作也崭露头角。目前，全文计量分析研究各个研究方向的发展参差不齐，部分研究方向尚处于萌芽阶段，相关研究的研究方法和数据仍待继续丰富。在未来，全文计量分析研究需要多个学科的广泛参与和相互合作，出版商与学者也需积极参与到全文研究中来。我们应当对学术文献进行更加全面的认识，从而推动全文计量分析向客体细粒度化、视角多样化、指标语义化和评价结果全面化等方向不断迈进，并促进全文计量分析与学术服务和学术评价工作的有机结合，使得文献计量学能够更好地为学术活动而服务。图：4，表：1，参考文献：167。">
+
+  
+  <link rel="alternate" hreflang="en" href="https://luchao1991.github.io/publication/luchao-zhongtu_2021/">
+  
+  <link rel="alternate" hreflang="zh-Hans" href="https://luchao1991.github.io/zh/publication/luchao-zhongtu_2021/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/zh/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu9c3d561446b6c683de0a9adfd3d31463_89390_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu9c3d561446b6c683de0a9adfd3d31463_89390_192x192_fill_lanczos_center_3.png">
+
+  <link rel="canonical" href="https://luchao1991.github.io/zh/publication/luchao-zhongtu_2021/">
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="卢超">
+  <meta property="og:url" content="https://luchao1991.github.io/zh/publication/luchao-zhongtu_2021/">
+  <meta property="og:title" content="语义特征分析的深化——学术文献的全文计量分析研究综述 | 卢超">
+  <meta property="og:description" content="基于文献题录数据和引文数据的传统文献计量研究存在着诸多的障碍和壁垒。随着自然语言处理技术的发展和学术文献全文数据特别是结构化全文数据的丰富，这些障碍和壁垒在不断被攻克。通过综述学术文献全文的计量分析的相关研究，本文发现：学术文献的计量研究正在经历巨大转变——从学术文献的外部特征到开始关注内容特征、从关注学术文献的句法特征到语义特征乃至语用特征。以引文内容分析为代表的学术文献全文计量分析研究发展突出，其他全文信息的计量分析工作也崭露头角。目前，全文计量分析研究各个研究方向的发展参差不齐，部分研究方向尚处于萌芽阶段，相关研究的研究方法和数据仍待继续丰富。在未来，全文计量分析研究需要多个学科的广泛参与和相互合作，出版商与学者也需积极参与到全文研究中来。我们应当对学术文献进行更加全面的认识，从而推动全文计量分析向客体细粒度化、视角多样化、指标语义化和评价结果全面化等方向不断迈进，并促进全文计量分析与学术服务和学术评价工作的有机结合，使得文献计量学能够更好地为学术活动而服务。图：4，表：1，参考文献：167。"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="zh-Hans">
+  
+    
+      <meta property="article:published_time" content="2021-02-23T14:48:29&#43;08:00">
+    
+    <meta property="article:modified_time" content="2021-04-23T14:48:29&#43;08:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://luchao1991.github.io/zh/publication/luchao-zhongtu_2021/"
+  },
+  "headline": "语义特征分析的深化——学术文献的全文计量分析研究综述",
+  
+  "datePublished": "2021-02-23T14:48:29+08:00",
+  "dateModified": "2021-04-23T14:48:29+08:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": " 卢超"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "卢超",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "img/https://luchao1991.github.io/"
+    }
+  },
+  "description": "基于文献题录数据和引文数据的传统文献计量研究存在着诸多的障碍和壁垒。随着自然语言处理技术的发展和学术文献全文数据特别是结构化全文数据的丰富，这些障碍和壁垒在不断被攻克。通过综述学术文献全文的计量分析的相关研究，本文发现：学术文献的计量研究正在经历巨大转变——从学术文献的外部特征到开始关注内容特征、从关注学术文献的句法特征到语义特征乃至语用特征。以引文内容分析为代表的学术文献全文计量分析研究发展突出，其他全文信息的计量分析工作也崭露头角。目前，全文计量分析研究各个研究方向的发展参差不齐，部分研究方向尚处于萌芽阶段，相关研究的研究方法和数据仍待继续丰富。在未来，全文计量分析研究需要多个学科的广泛参与和相互合作，出版商与学者也需积极参与到全文研究中来。我们应当对学术文献进行更加全面的认识，从而推动全文计量分析向客体细粒度化、视角多样化、指标语义化和评价结果全面化等方向不断迈进，并促进全文计量分析与学术服务和学术评价工作的有机结合，使得文献计量学能够更好地为学术活动而服务。图：4，表：1，参考文献：167。"
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>语义特征分析的深化——学术文献的全文计量分析研究综述 | 卢超</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>搜索</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="搜索..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/zh/">卢超</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="切换导航">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/zh/">卢超</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zh/#about"><span>主页</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/zh/publication/"><span>论文</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zh/#projects"><span>项目</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zh/people/"><span>团队</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zh/#contact"><span>联系我</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/zh/files/cv-CN.pdf"><span>这是我的简历</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown i18n-dropdown">
+        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">中文 (简体)</span>
+        </a>
+        <div class="dropdown-menu">
+          <div class="dropdown-item i18n-active font-weight-bold">
+            <span>中文 (简体)</span>
+          </div>
+          
+          <a class="dropdown-item" href="https://luchao1991.github.io/publication/luchao-zhongtu_2021/">
+            <span>English</span>
+          </a>
+          
+        </div>
+      </li>
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>语义特征分析的深化——学术文献的全文计量分析研究综述</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/zh/authors/%E5%8D%A2%E8%B6%85/">卢超</a></span>, <span><a href="/zh/authors/%E7%AB%A0%E6%88%90%E5%BF%97/">章成志</a></span>, <span><a href="/zh/authors/%E7%8E%8B%E7%8E%89%E7%90%A2/">王玉琢</a></span>, <span><a href="/zh/authors/ying-ding/">Ying Ding</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    April 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/zh/publication/luchao-zhongtu_2021/luchao-zhongtu_2021.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/zh/publication/luchao-zhongtu_2021/cite.bib">
+  引用
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.13530/j.cnki.jlis.2021016" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>摘要</h3>
+    <p class="pub-abstract">基于文献题录数据和引文数据的传统文献计量研究存在着诸多的障碍和壁垒。随着自然语言处理技术的发展和学术文献全文数据特别是结构化全文数据的丰富，这些障碍和壁垒在不断被攻克。通过综述学术文献全文的计量分析的相关研究，本文发现：学术文献的计量研究正在经历巨大转变——从学术文献的外部特征到开始关注内容特征、从关注学术文献的句法特征到语义特征乃至语用特征。以引文内容分析为代表的学术文献全文计量分析研究发展突出，其他全文信息的计量分析工作也崭露头角。目前，全文计量分析研究各个研究方向的发展参差不齐，部分研究方向尚处于萌芽阶段，相关研究的研究方法和数据仍待继续丰富。在未来，全文计量分析研究需要多个学科的广泛参与和相互合作，出版商与学者也需积极参与到全文研究中来。我们应当对学术文献进行更加全面的认识，从而推动全文计量分析向客体细粒度化、视角多样化、指标语义化和评价结果全面化等方向不断迈进，并促进全文计量分析与学术服务和学术评价工作的有机结合，使得文献计量学能够更好地为学术活动而服务。图：4，表：1，参考文献：167。</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">类型</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/zh/publication/#2">
+              期刊文章
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">出版物</div>
+          <div class="col-12 col-md-9">中国图书馆学报</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/zh/tags/citation-content-analysis/">citation content analysis</a>
+  
+  <a class="badge badge-light" href="/zh/tags/full-text-analysis/">full-text analysis</a>
+  
+  <a class="badge badge-light" href="/zh/tags/semantic-features/">semantic features</a>
+  
+  <a class="badge badge-light" href="/zh/tags/text-mining/">text mining</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://luchao1991.github.io/zh/publication/luchao-zhongtu_2021/&amp;text=%e8%af%ad%e4%b9%89%e7%89%b9%e5%be%81%e5%88%86%e6%9e%90%e7%9a%84%e6%b7%b1%e5%8c%96%e2%80%94%e2%80%94%e5%ad%a6%e6%9c%af%e6%96%87%e7%8c%ae%e7%9a%84%e5%85%a8%e6%96%87%e8%ae%a1%e9%87%8f%e5%88%86%e6%9e%90%e7%a0%94%e7%a9%b6%e7%bb%bc%e8%bf%b0" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://luchao1991.github.io/zh/publication/luchao-zhongtu_2021/&amp;t=%e8%af%ad%e4%b9%89%e7%89%b9%e5%be%81%e5%88%86%e6%9e%90%e7%9a%84%e6%b7%b1%e5%8c%96%e2%80%94%e2%80%94%e5%ad%a6%e6%9c%af%e6%96%87%e7%8c%ae%e7%9a%84%e5%85%a8%e6%96%87%e8%ae%a1%e9%87%8f%e5%88%86%e6%9e%90%e7%a0%94%e7%a9%b6%e7%bb%bc%e8%bf%b0" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=%e8%af%ad%e4%b9%89%e7%89%b9%e5%be%81%e5%88%86%e6%9e%90%e7%9a%84%e6%b7%b1%e5%8c%96%e2%80%94%e2%80%94%e5%ad%a6%e6%9c%af%e6%96%87%e7%8c%ae%e7%9a%84%e5%85%a8%e6%96%87%e8%ae%a1%e9%87%8f%e5%88%86%e6%9e%90%e7%a0%94%e7%a9%b6%e7%bb%bc%e8%bf%b0&amp;body=https://luchao1991.github.io/zh/publication/luchao-zhongtu_2021/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://luchao1991.github.io/zh/publication/luchao-zhongtu_2021/&amp;title=%e8%af%ad%e4%b9%89%e7%89%b9%e5%be%81%e5%88%86%e6%9e%90%e7%9a%84%e6%b7%b1%e5%8c%96%e2%80%94%e2%80%94%e5%ad%a6%e6%9c%af%e6%96%87%e7%8c%ae%e7%9a%84%e5%85%a8%e6%96%87%e8%ae%a1%e9%87%8f%e5%88%86%e6%9e%90%e7%a0%94%e7%a9%b6%e7%bb%bc%e8%bf%b0" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=%e8%af%ad%e4%b9%89%e7%89%b9%e5%be%81%e5%88%86%e6%9e%90%e7%9a%84%e6%b7%b1%e5%8c%96%e2%80%94%e2%80%94%e5%ad%a6%e6%9c%af%e6%96%87%e7%8c%ae%e7%9a%84%e5%85%a8%e6%96%87%e8%ae%a1%e9%87%8f%e5%88%86%e6%9e%90%e7%a0%94%e7%a9%b6%e7%bb%bc%e8%bf%b0%20https://luchao1991.github.io/zh/publication/luchao-zhongtu_2021/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://luchao1991.github.io/zh/publication/luchao-zhongtu_2021/&amp;title=%e8%af%ad%e4%b9%89%e7%89%b9%e5%be%81%e5%88%86%e6%9e%90%e7%9a%84%e6%b7%b1%e5%8c%96%e2%80%94%e2%80%94%e5%ad%a6%e6%9c%af%e6%96%87%e7%8c%ae%e7%9a%84%e5%85%a8%e6%96%87%e8%ae%a1%e9%87%8f%e5%88%86%e6%9e%90%e7%a0%94%e7%a9%b6%e7%bb%bc%e8%bf%b0" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/zh/authors/%E5%8D%A2%E8%B6%85/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>相关</h3>
+    <ul>
+      
+      <li><a href="/zh/publication/xushurui-zhu-yu-2017/">术语引用视角下的学科交叉测度——以PLOS ONE上六个学科为例</a></li>
+      
+      <li><a href="/zh/publication/xushurui-li-yong-yin-wen-nei-rong-jin-xing-zhu-ti-ji-xue-ke-jiao-cha-lei-xing-fen-xi-2017/">利用引文内容进行主题级学科交叉类型分析</a></li>
+      
+      <li><a href="/zh/publication/zhangmengying-2016/">用于引文内容分析的标准化数据集构建</a></li>
+      
+      <li><a href="/zh/publication/xushurui-xue-ke-jiao-cha-du-de-dian-mian-guan-xi-yan-jiu-2017/">学科交叉度的点面关系研究</a></li>
+      
+      <li><a href="/zh/publication/luchao-dan-pian-xue-2014/">基于引文内容的单篇学术论文参考文献网络结构研究</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.4/mermaid.min.js" integrity="sha256-JEqEejGt4tR35L0a1zodzsV0/PJ6GIf7J4yDtywdrH8=" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/python.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/zh/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"没有找到结果","placeholder":"搜索...","results":"搜索结果"};
+      const content_type = {
+        'post': "文章",
+        'project': "项目",
+        'publication' : "出版物",
+        'talk' : "演讲"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.dd3bd320b283a236b60c707f537377b7.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">引用</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> 复制
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> 下载
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
