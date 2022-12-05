@@ -1,40 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>卢超</title>
-    <link>https://luchao1991.github.io/zh/</link>
-      <atom:link href="https://luchao1991.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
-    <description>卢超</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sun, 04 Dec 2022 21:41:59 +0800</lastBuildDate>
+    <title>Projects | 卢超</title>
+    <link>https://luchao1991.github.io/zh/project/</link>
+      <atom:link href="https://luchao1991.github.io/zh/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>卢超</title>
-      <link>https://luchao1991.github.io/zh/</link>
+      <title>Projects</title>
+      <link>https://luchao1991.github.io/zh/project/</link>
     </image>
-    
-    <item>
-      <title>Contributorship in Scientific Collaborations: The Perspective of Contribution-based Byline Orders</title>
-      <link>https://luchao1991.github.io/zh/publication/luchao-ipm-2022/</link>
-      <pubDate>Sun, 04 Dec 2022 21:41:59 +0800</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/luchao-ipm-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>文献耦合网络的引文内容加权研究——基于提及次数的方法</title>
-      <link>https://luchao1991.github.io/zh/publication/luchao_dongke_2022/</link>
-      <pubDate>Sat, 05 Nov 2022 17:00:31 +0800</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/luchao_dongke_2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>从幕后到台前：数据要素化带来图情学科发展机遇与挑战</title>
-      <link>https://luchao1991.github.io/zh/publication/luyao_2021/</link>
-      <pubDate>Sun, 05 Dec 2021 17:00:59 +0800</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/luyao_2021/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>劳动分工视角下科研合作者的科研效能研究</title>
@@ -73,190 +49,6 @@
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>语义特征分析的深化——学术文献的全文计量分析研究综述</title>
-      <link>https://luchao1991.github.io/zh/publication/luchao-zhongtu-2020-accept/</link>
-      <pubDate>Sun, 23 Feb 2020 14:48:29 +0800</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/luchao-zhongtu-2020-accept/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Co-Contributorship Network and Division of Labor in Individual Scientific Collaborations</title>
-      <link>https://luchao1991.github.io/zh/publication/lu-cocontributorship-network-division-accepted/</link>
-      <pubDate>Tue, 11 Feb 2020 16:40:53 +0800</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/lu-cocontributorship-network-division-accepted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>国外新兴研究话题发现研究综述</title>
-      <link>https://luchao1991.github.io/zh/publication/luchao-guowaixinxingyanjiuhuati-2019/</link>
-      <pubDate>Tue, 11 Feb 2020 16:29:53 +0800</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/luchao-guowaixinxingyanjiuhuati-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Analyzing Linguistic Complexity and Scientific Impact</title>
-      <link>https://luchao1991.github.io/zh/publication/lu-analyzing-linguistic-complexity-2019/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/lu-analyzing-linguistic-complexity-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Examining Scientific Writing Styles from the Perspective of Linguistic Complexity</title>
-      <link>https://luchao1991.github.io/zh/publication/lu-examining-scientific-writing-2019/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/lu-examining-scientific-writing-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Understanding Roles of Collaborators from Their Byline Orders and Affiliations</title>
-      <link>https://luchao1991.github.io/zh/publication/lu-understanding-roles-collaborators-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/lu-understanding-roles-collaborators-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Types of Scientific Collaborators: A Perspective of Author Contribution Network</title>
-      <link>https://luchao1991.github.io/zh/publication/lu-types-scientific-collaborators-2018/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/lu-types-scientific-collaborators-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Impact of Byline Order of Corresponding Author-A Preliminary Study</title>
-      <link>https://luchao1991.github.io/zh/publication/zhang-impact-byline-order-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/zhang-impact-byline-order-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Does Collaboration Bring High-Impact Studies? A Preliminary Study</title>
-      <link>https://luchao1991.github.io/zh/publication/lu-does-collaboration-bring-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/lu-does-collaboration-bring-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>To Be or Not to Be: Will Scientific Writing Affect Scientific Impact?</title>
-      <link>https://luchao1991.github.io/zh/publication/lu-be-not-be-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/lu-be-not-be-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Understanding Academic Writing Style from the Perspective of Linguistic Closeness of the Speaker&#39;s Native Language to English</title>
-      <link>https://luchao1991.github.io/zh/publication/lu-understanding-academic-writing-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/lu-understanding-academic-writing-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Understanding the Impact Change of a Highly Cited Article: A Content-Based Citation Analysis</title>
-      <link>https://luchao1991.github.io/zh/publication/lu-understanding-impact-change-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/lu-understanding-impact-change-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>利用引文内容进行主题级学科交叉类型分析</title>
-      <link>https://luchao1991.github.io/zh/publication/xushurui-li-yong-yin-wen-nei-rong-jin-xing-zhu-ti-ji-xue-ke-jiao-cha-lei-xing-fen-xi-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/xushurui-li-yong-yin-wen-nei-rong-jin-xing-zhu-ti-ji-xue-ke-jiao-cha-lei-xing-fen-xi-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>学术专著引用行为研究——基于引文内容特征分析的视角</title>
-      <link>https://luchao1991.github.io/zh/publication/wangyuzhuo-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/wangyuzhuo-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>学科交叉度的点面关系研究</title>
-      <link>https://luchao1991.github.io/zh/publication/xushurui-xue-ke-jiao-cha-du-de-dian-mian-guan-xi-yan-jiu-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/xushurui-xue-ke-jiao-cha-du-de-dian-mian-guan-xi-yan-jiu-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>术语引用视角下的学科交叉测度——以PLOS ONE上六个学科为例</title>
-      <link>https://luchao1991.github.io/zh/publication/xushurui-zhu-yu-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/xushurui-zhu-yu-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparative Analysis of Book Tags: A Cross-Lingual Perspective</title>
-      <link>https://luchao1991.github.io/zh/publication/lu-comparative-analysis-book-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/lu-comparative-analysis-book-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>利用引文内容监测多学科交叉现象的方法与实证</title>
-      <link>https://luchao1991.github.io/zh/publication/zhangchengzhi-li-yong-yin-wen-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/zhangchengzhi-li-yong-yin-wen-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>用于引文内容分析的标准化数据集构建</title>
-      <link>https://luchao1991.github.io/zh/publication/zhangmengying-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/zhangmengying-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How Does Citing Behavior for a Scientific Article Change over Time?: A Preliminary Study</title>
-      <link>https://luchao1991.github.io/zh/publication/lu-how-does-citing-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/lu-how-does-citing-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>基于引文内容的单篇学术论文参考文献网络结构研究</title>
-      <link>https://luchao1991.github.io/zh/publication/luchao-dan-pian-xue-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/luchao-dan-pian-xue-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>中英译本图书社会化标签的比较研究</title>
-      <link>https://luchao1991.github.io/zh/publication/luchao-zhong-ying-yi-ben-tu-shu-she-hui-hua-biao-qian-de-bi-jiao-yan-jiu-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/publication/luchao-zhong-ying-yi-ben-tu-shu-she-hui-hua-biao-qian-de-bi-jiao-yan-jiu-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://luchao1991.github.io/zh/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://luchao1991.github.io/zh/people/</guid>
-      <description></description>
     </item>
     
   </channel>

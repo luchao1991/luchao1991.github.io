@@ -304,6 +304,41 @@
                 href="https://luchao1991.github.io/zh/authors/%E9%99%86%E7%91%B6/"
                 />
   </url><url>
+    <loc>https://luchao1991.github.io/zh/tags/emerging-topic/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/tags/emerging-topic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/tags/emerging-topic/"
+                />
+  </url><url>
+    <loc>https://luchao1991.github.io/zh/project/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/project/"
+                />
+  </url><url>
+    <loc>https://luchao1991.github.io/zh/project/scientific_collaboration/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luchao1991.github.io/zh/project/scientific_collaboration_2/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luchao1991.github.io/zh/project/emerging_topic_detection/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://luchao1991.github.io/zh/authors/%E7%AB%A0%E6%88%90%E5%BF%97/</loc>
     <lastmod>2020-02-23T14:48:29+08:00</lastmod>
     <xhtml:link
@@ -500,19 +535,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://luchao1991.github.io/zh/authors/yong-yeol-ahn/"
-                />
-  </url><url>
-    <loc>https://luchao1991.github.io/zh/tags/emerging-topic/</loc>
-    <lastmod>2020-02-11T16:29:53+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luchao1991.github.io/tags/emerging-topic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://luchao1991.github.io/zh/tags/emerging-topic/"
                 />
   </url><url>
     <loc>https://luchao1991.github.io/zh/tags/emerging-topic-detection/</loc>
@@ -1292,6 +1314,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://luchao1991.github.io/zh/authors/admin/"
+                />
+  </url><url>
+    <loc>https://luchao1991.github.io/zh/people/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/people/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/people/"
                 />
   </url><url>
     <loc>https://luchao1991.github.io/zh/post/</loc>
