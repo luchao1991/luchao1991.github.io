@@ -1340,18 +1340,6 @@
                 href="https://luchao1991.github.io/zh/authors/limengting/"
                 />
   </url><url>
-    <loc>https://luchao1991.github.io/zh/authors/shangzhen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luchao1991.github.io/authors/shangzhen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://luchao1991.github.io/zh/authors/shangzhen/"
-                />
-  </url><url>
     <loc>https://luchao1991.github.io/zh/post/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1374,6 +1362,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://luchao1991.github.io/zh/talk/"
+                />
+  </url><url>
+    <loc>https://luchao1991.github.io/zh/authors/shangzhen/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/authors/shangzhen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/authors/shangzhen/"
                 />
   </url>
 </urlset>

@@ -1304,18 +1304,6 @@
                 href="https://luchao1991.github.io/authors/yong-yeol-ahn/"
                 />
   </url><url>
-    <loc>https://luchao1991.github.io/authors/admin/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://luchao1991.github.io/zh/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luchao1991.github.io/authors/admin/"
-                />
-  </url><url>
     <loc>https://luchao1991.github.io/people/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1328,6 +1316,18 @@
                 href="https://luchao1991.github.io/people/"
                 />
   </url><url>
+    <loc>https://luchao1991.github.io/authors/admin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/authors/admin/"
+                />
+  </url><url>
     <loc>https://luchao1991.github.io/authors/limengting/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1338,18 +1338,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://luchao1991.github.io/authors/limengting/"
-                />
-  </url><url>
-    <loc>https://luchao1991.github.io/authors/shangzhen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://luchao1991.github.io/zh/authors/shangzhen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luchao1991.github.io/authors/shangzhen/"
                 />
   </url><url>
     <loc>https://luchao1991.github.io/post/</loc>
@@ -1374,6 +1362,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://luchao1991.github.io/talk/"
+                />
+  </url><url>
+    <loc>https://luchao1991.github.io/authors/shangzhen/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/authors/shangzhen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/authors/shangzhen/"
                 />
   </url>
 </urlset>
