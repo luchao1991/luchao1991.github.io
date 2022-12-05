@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mengting Li | Lu, Chao</title>
+    <link>https://luchao1991.github.io/authors/limengting/</link>
+      <atom:link href="https://luchao1991.github.io/authors/limengting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mengting Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mengting Li</title>
+      <link>https://luchao1991.github.io/authors/limengting/</link>
+    </image>
+    
+  </channel>
+</rss>

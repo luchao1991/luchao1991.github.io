@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://luchao1991.github.io/authors/</loc>
+    <lastmod>2022-12-04T21:41:59+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/authors/"
+                />
+  </url><url>
     <loc>https://luchao1991.github.io/publication_types/2/</loc>
     <lastmod>2022-12-04T21:41:59+08:00</lastmod>
     <xhtml:link
@@ -26,19 +39,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://luchao1991.github.io/tags/author-contribution-statement/"
-                />
-  </url><url>
-    <loc>https://luchao1991.github.io/authors/</loc>
-    <lastmod>2022-12-04T21:41:59+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://luchao1991.github.io/zh/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luchao1991.github.io/authors/"
                 />
   </url><url>
     <loc>https://luchao1991.github.io/authors/chao-lu/</loc>
@@ -1326,6 +1326,30 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://luchao1991.github.io/people/"
+                />
+  </url><url>
+    <loc>https://luchao1991.github.io/authors/limengting/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/authors/limengting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/authors/limengting/"
+                />
+  </url><url>
+    <loc>https://luchao1991.github.io/authors/shangzhen/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/authors/shangzhen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/authors/shangzhen/"
                 />
   </url><url>
     <loc>https://luchao1991.github.io/post/</loc>
