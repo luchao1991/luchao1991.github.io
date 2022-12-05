@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>author contribution statement mining | 卢超</title>
+    <link>https://luchao1991.github.io/zh/categories/author-contribution-statement-mining/</link>
+      <atom:link href="https://luchao1991.github.io/zh/categories/author-contribution-statement-mining/index.xml" rel="self" type="application/rss+xml" />
+    <description>author contribution statement mining</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sun, 04 Dec 2022 21:41:59 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>author contribution statement mining</title>
+      <link>https://luchao1991.github.io/zh/categories/author-contribution-statement-mining/</link>
+    </image>
+    
+    <item>
+      <title>Contributorship in Scientific Collaborations: The Perspective of Contribution-based Byline Orders</title>
+      <link>https://luchao1991.github.io/zh/publication/luchao-ipm-2022/</link>
+      <pubDate>Sun, 04 Dec 2022 21:41:59 +0800</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/luchao-ipm-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
