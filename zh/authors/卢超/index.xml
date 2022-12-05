@@ -5,12 +5,28 @@
     <link>https://luchao1991.github.io/zh/authors/%E5%8D%A2%E8%B6%85/</link>
       <atom:link href="https://luchao1991.github.io/zh/authors/%E5%8D%A2%E8%B6%85/index.xml" rel="self" type="application/rss+xml" />
     <description> 卢超</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sun, 23 Feb 2020 14:48:29 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sat, 05 Nov 2022 17:00:31 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title> 卢超</title>
       <link>https://luchao1991.github.io/zh/authors/%E5%8D%A2%E8%B6%85/</link>
     </image>
+    
+    <item>
+      <title>文献耦合网络的引文内容加权研究——基于提及次数的方法</title>
+      <link>https://luchao1991.github.io/zh/publication/luchao_dongke_2022/</link>
+      <pubDate>Sat, 05 Nov 2022 17:00:31 +0800</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/luchao_dongke_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>从幕后到台前：数据要素化带来图情学科发展机遇与挑战</title>
+      <link>https://luchao1991.github.io/zh/publication/luyao_2021/</link>
+      <pubDate>Sun, 05 Dec 2021 17:00:59 +0800</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/luyao_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>语义特征分析的深化——学术文献的全文计量分析研究综述</title>
