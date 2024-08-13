@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>陈秀娟 | 卢超</title>
+    <link>https://luchao1991.github.io/zh/authors/%E9%99%88%E7%A7%80%E5%A8%9F/</link>
+      <atom:link href="https://luchao1991.github.io/zh/authors/%E9%99%88%E7%A7%80%E5%A8%9F/index.xml" rel="self" type="application/rss+xml" />
+    <description>陈秀娟</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Mon, 12 Aug 2024 17:00:59 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>陈秀娟</title>
+      <link>https://luchao1991.github.io/zh/authors/%E9%99%88%E7%A7%80%E5%A8%9F/</link>
+    </image>
+    
+    <item>
+      <title>合贡献者网络的结构特征及其合作群体识别应用研究</title>
+      <link>https://luchao1991.github.io/zh/publication/luchao_2024/</link>
+      <pubDate>Mon, 12 Aug 2024 17:00:59 +0800</pubDate>
+      <guid>https://luchao1991.github.io/zh/publication/luchao_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>https://luchao1991.github.io/authors/%E5%8D%A2%E8%B6%85/</link>
       <atom:link href="https://luchao1991.github.io/authors/%E5%8D%A2%E8%B6%85/index.xml" rel="self" type="application/rss+xml" />
     <description> 卢超</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 05 Nov 2022 17:00:31 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Aug 2024 17:00:59 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title> 卢超</title>
       <link>https://luchao1991.github.io/authors/%E5%8D%A2%E8%B6%85/</link>
     </image>
+    
+    <item>
+      <title>合贡献者网络的结构特征及其合作群体识别应用研究</title>
+      <link>https://luchao1991.github.io/publication/luchao_2024/</link>
+      <pubDate>Mon, 12 Aug 2024 17:00:59 +0800</pubDate>
+      <guid>https://luchao1991.github.io/publication/luchao_2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>文献耦合网络的引文内容加权研究——基于提及次数的方法</title>
