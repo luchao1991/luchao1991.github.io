@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>organized science | Lu, Chao</title>
+    <link>https://luchao1991.github.io/tags/organized-science/</link>
+      <atom:link href="https://luchao1991.github.io/tags/organized-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>organized science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>organized science</title>
+      <link>https://luchao1991.github.io/tags/organized-science/</link>
+    </image>
+    
+    <item>
+      <title>A study of labor division models in organized scientific research collaboration</title>
+      <link>https://luchao1991.github.io/project/scientific_collaboration_4/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://luchao1991.github.io/project/scientific_collaboration_4/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
