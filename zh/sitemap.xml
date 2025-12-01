@@ -1537,18 +1537,6 @@
                 href="https://luchao1991.github.io/zh/people/"
                 />
   </url><url>
-    <loc>https://luchao1991.github.io/zh/authors/limengting/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luchao1991.github.io/authors/limengting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://luchao1991.github.io/zh/authors/limengting/"
-                />
-  </url><url>
     <loc>https://luchao1991.github.io/zh/authors/caoming/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1619,6 +1607,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://luchao1991.github.io/zh/authors/zhouchenyu/"
+                />
+  </url><url>
+    <loc>https://luchao1991.github.io/zh/authors/limengting/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/authors/limengting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/authors/limengting/"
                 />
   </url><url>
     <loc>https://luchao1991.github.io/zh/authors/wangyun/</loc>
