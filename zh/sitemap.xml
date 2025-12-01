@@ -1537,18 +1537,6 @@
                 href="https://luchao1991.github.io/zh/people/"
                 />
   </url><url>
-    <loc>https://luchao1991.github.io/zh/authors/caoming/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luchao1991.github.io/authors/caoming/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://luchao1991.github.io/zh/authors/caoming/"
-                />
-  </url><url>
     <loc>https://luchao1991.github.io/zh/post/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1573,18 +1561,6 @@
                 href="https://luchao1991.github.io/zh/talk/"
                 />
   </url><url>
-    <loc>https://luchao1991.github.io/zh/authors/shangzhen/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://luchao1991.github.io/authors/shangzhen/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://luchao1991.github.io/zh/authors/shangzhen/"
-                />
-  </url><url>
     <loc>https://luchao1991.github.io/zh/authors/houlinshan/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1597,6 +1573,18 @@
                 href="https://luchao1991.github.io/zh/authors/houlinshan/"
                 />
   </url><url>
+    <loc>https://luchao1991.github.io/zh/authors/lvzihan/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/authors/lvzihan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/authors/lvzihan/"
+                />
+  </url><url>
     <loc>https://luchao1991.github.io/zh/authors/zhouchenyu/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1607,6 +1595,30 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://luchao1991.github.io/zh/authors/zhouchenyu/"
+                />
+  </url><url>
+    <loc>https://luchao1991.github.io/zh/authors/shangzhen/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/authors/shangzhen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/authors/shangzhen/"
+                />
+  </url><url>
+    <loc>https://luchao1991.github.io/zh/authors/caoming/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://luchao1991.github.io/authors/caoming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://luchao1991.github.io/zh/authors/caoming/"
                 />
   </url><url>
     <loc>https://luchao1991.github.io/zh/authors/limengting/</loc>
